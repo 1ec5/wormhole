@@ -4,7 +4,7 @@ A simple application that allows you to simulate any location across all applica
 
 ## Setup
 
-1. Add any [destinations](#Destinations) you want to simulate.
+1. Add any [destinations](#destinations) you want to simulate.
 1. Build and run the included Xcode project on an iOS device.
 1. In Xcode, use the Debug ‣ Simulate Location menu or the Simulate Location icon in the debugger toolbar to select a simulated location.
 1. On your device, grant Wormhole the Location Services permissions it asks for, so that you can easily see the locations that are being simulated.
