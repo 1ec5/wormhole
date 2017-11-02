@@ -26,4 +26,5 @@ You can find freely available GPX tracks [at OpenStreetMap](https://www.openstre
 
 ## See also
 
-[PokemonGoMove](https://github.com/huacnlee/PokemonGoMove/) takes this concept a step further to facilitate _Pokémon GO_ gameplay.
+* [PokemonGoMove](https://github.com/huacnlee/PokemonGoMove/) takes this concept a step further to facilitate _Pokémon GO_ gameplay.
+* [GuideDog](https://github.com/frederoni/GuideDog/) is a library for simulating location updates from within an application. It offers more control over the location updates but only works in applications that you can build from source code.
